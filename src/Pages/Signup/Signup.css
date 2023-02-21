@@ -1,0 +1,10 @@
+.bg-green{
+    background-color: #19A526;
+
+}
+.bg-img{
+    background-image: url('../../../public/SignUp.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+}

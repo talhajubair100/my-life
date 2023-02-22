@@ -2,8 +2,9 @@ import React from 'react'
 
 const Home = () => {
   return (
-    <div>
+    <div className='lg:ml-48'>
       <h1>This is Home Page</h1>
+      
     </div>
   )
 }

@@ -1,0 +1,47 @@
+.bank{
+    background-image: url('../../../public/icons/credit-card.png');
+    background-repeat: no-repeat;
+    background-position: 5px 8px;
+}
+
+.bank:hover{
+    background-image: url('../../../public/icons/credit-card-hover.png');
+    background-repeat: no-repeat;
+    background-position: 5px 8px;
+}
+
+.shield{
+    background-image: url('../../../public/icons/shield.png');
+    background-repeat: no-repeat;
+    background-position: 5px 8px;
+}
+
+.shield:hover{
+    background-image: url('../../../public/icons/shield-hover.png');
+    background-repeat: no-repeat;
+    background-position: 5px 8px;
+}
+
+.plane{
+    background-image: url('../../../public/icons/Plane.png');
+    background-repeat: no-repeat;
+    background-position: 5px 8px;
+}
+
+.plane:hover{
+    background-image: url('../../../public/icons/Plane-hover.png');
+    background-repeat: no-repeat;
+    background-position: 5px 8px;
+}
+
+.user{
+    background-image: url('../../../public/icons/user-plus.png');
+    background-repeat: no-repeat;
+    background-position: 5px 8px;
+}
+
+.user:hover{
+    background-image: url('../../../public/icons/user-plus-hover.png');
+    background-repeat: no-repeat;
+    background-position: 5px 8px;
+}

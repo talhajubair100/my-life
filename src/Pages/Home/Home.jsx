@@ -1,10 +1,20 @@
 import React from 'react'
+import Banks from '../Banks/Banks'
+import Footer from '../Footer/Footer'
+import Hero from '../Hero/Hero'
+import Savings from '../SavingDeal/Savings'
+import Subscribe from '../Subscribe/Subscribe'
+import Trips from '../Trips/Trips'
 
 const Home = () => {
   return (
-    <div className='lg:ml-48'>
-      <h1>This is Home Page</h1>
-      
+    <div>
+      <Hero></Hero>
+      <Savings></Savings>
+      <Subscribe></Subscribe>
+      <Trips></Trips>
+      <Banks></Banks>
+      <Footer></Footer>
     </div>
   )
 }
